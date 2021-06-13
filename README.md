@@ -109,6 +109,11 @@ if you want to evaluate the work
     python evaluate.py --gpu_idx 0 --arch DLA_34 --pretrained_path ../checkpoints/**/**
     
     
+### Download
+
+Checkpoints： [https://drive.google.com/drive/folders/1YNgJ-DYt4AQYNqI8SysauMC1MRLG1vui?usp=sharing](https://drive.google.com/drive/folders/1YNgJ-DYt4AQYNqI8SysauMC1MRLG1vui?usp=sharing)
+    
+    
 ### Reference
 
 Thanks for all the great works.
