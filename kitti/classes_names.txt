@@ -1,3 +1,0 @@
-Pedestrian
-Car
-Cyclist
