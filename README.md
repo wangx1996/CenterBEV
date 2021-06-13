@@ -126,5 +126,4 @@ Thanks for all the great works.
 
 
 ![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/result.png)
-![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/result.gif)
 
