@@ -111,14 +111,17 @@ if you want to evaluate the work
 Thanks for all the great works.
 
 [1] [SFA3D](https://github.com/maudzung/SFA3D)
+
 [2] [Complex_Yolo](https://github.com/maudzung/Complex-YOLOv4-Pytorch)
+
 [3] [CenterNet: Objects as Points](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1904.07850), [[PyTorch Implementation](https://github.com/xingyizhou/CenterNet)]
+
 [4] [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211) [[final version code](https://github.com/jinfagang/DCNv2_latest)]
 
 
 ### Result
 
 
-![Image text](https://github.com/wangx1996/CenterBEV/tree/main/result/2.png)
-![Image text](https://github.com/wangx1996/CenterBEV/tree/main/result/8.png)
-![Image text](https://github.com/wangx1996/CenterBEV/tree/main/result/11.png)
+![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/2.png)
+![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/8.png)
+![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/11.png)
