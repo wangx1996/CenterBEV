@@ -11,6 +11,9 @@ This project is not finished yet, it has a lot of parts to be improved.
 
 If you are intreseted in this project, you can try to change the code and make this work better.
 
+![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/result.gif)
+
+
 ### Structure
 ![Image text](https://github.com/wangx1996/CenterBEV/blob/main/structure/structure.png)
 
@@ -122,6 +125,6 @@ Thanks for all the great works.
 ### Result
 
 
-![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/2.png)
-![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/8.png)
-![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/11.png)
+![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/result.png)
+![Image text](https://github.com/wangx1996/CenterBEV/blob/main/result/result.gif)
+
